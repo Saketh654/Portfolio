@@ -1,0 +1,27 @@
+#main{
+    border: 1px #e4c7aa solid;
+    border-radius: 20px;
+    margin: 50px 150px;
+    padding: 30px;
+}
+
+#main h2{
+    font-size: 40px;
+    color:cornflowerblue;
+    text-decoration: underline;
+    text-underline-offset: 9px;
+}
+#main p{
+    margin: 20px;
+    color: #e4c7aa;
+    font-size: 20px;
+}
+
+#main a{
+    color: #e4c7aa;
+    font-size: 20px;
+}
+
+#main span{
+    font-weight: bold;
+}

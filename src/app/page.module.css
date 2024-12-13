@@ -1,0 +1,32 @@
+#intro{
+  display: flex;
+  flex-direction:row;
+}
+#pic img {
+  margin: 20px 1px 20px 20px ;
+  border-radius: 20px;
+  height:300px;
+}
+#about{
+  width: 90%;
+  margin: 20px;
+  font-size: 20px;
+}
+#about p{
+  margin: 100px 20px 100px 1px;
+  padding: 10px;
+}
+#main{
+  border: 2px #e4c7aa solid ;
+  border-radius: 10px;
+  padding: 10px 20px 10px 20px;
+  margin: 10px 150px;
+}
+
+#skill{
+  margin: 10px;
+}
+
+#skill ul{
+  margin: 5px 25px;
+}

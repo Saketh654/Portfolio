@@ -7,7 +7,7 @@ function Contact() {
             <h4>Socials</h4>
             <br></br>
             <a href="https://github.com/Saketh654"><Image
-            src="../../github.png"
+            src="/github.png"
             height={30}
             width={30}
             alt="Github"

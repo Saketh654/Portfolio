@@ -11,14 +11,19 @@ export default function Home() {
         <div id={styles.main}>
           <div id={styles.intro}>
             <div id={styles.pic}>
-              <img src="profile.png" alt="Profile Picture" />
+              <Image
+                src="/profile.png"
+                width={200}
+                height={300}
+                alt="profile picture"
+                />
             </div>
             <div>
               <div id={styles.about}>
                 <p>
-                Hello! I’m Nagasaketh Chintaluri, a third-year Computer Science and Engineering student at Vellore Institute of Technology. 
+                (Hello! I&apos;m Nagasaketh Chintaluri, a third-year Computer Science and Engineering student at Vellore Institute of Technology. 
                 I bring hands-on experience in web and game development, paired with a growing expertise in Artificial Intelligence and Machine Learning. 
-                Driven by a passion for creating engaging and intelligent digital solutions, I'm constantly exploring innovative ways to integrate technology and creativity.
+                Driven by a passion for creating engaging and intelligent digital solutions, I&apos;m constantly exploring innovative ways to integrate technology and creativity.)
                 </p>
               </div>
             </div>
